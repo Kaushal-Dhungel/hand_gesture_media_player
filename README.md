@@ -1,25 +1,25 @@
 # Controlling Media Player Using Gestures.
 
-![Watch Demo Here](https://youtu.be/auBmqnNG2mQ)
+[Watch Demo Here](https://youtu.be/auBmqnNG2mQ)
 
 
 ## Gestures:- 
  
 1. **Volume Down**
 
-![down](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/master/thumbnails/down.jpg)
+![down](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/down.jpg)
 
 2. **Volume Up**
 
-![up](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/master/thumbnails/up.jpg)
+![up](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/up.jpg)
 
 3. **Fast Forward**
 
-![right](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/master/thumbnails/right.jpg)
+![right](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/right.jpg)
 
 4. **Reverse**
 
-![left](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/master/thumbnails/left.jpg)
+![left](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/left.jpg)
 
 
 ## Set up instructions
