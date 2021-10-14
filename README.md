@@ -2,6 +2,11 @@
 
 [Watch Demo Here](https://youtu.be/auBmqnNG2mQ)
 
+## Info
+This program recognises hand gestures and controls the media player accordingly. This is done using `pyautogui` library which helps to press keys to perform 
+operations like volume up/down, forward, reverse etc.
+The model is trained using the Squeezenet Model and the accuracy is almost 100%. 
+
 
 ## Gestures:- 
  
@@ -19,7 +24,7 @@
 
 4. **Reverse**
 
-![left](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/left.jpg)
+![left](https://github.com/Kaushal-Dhungel/hand_gesture_media_player/blob/main/thumbnails/left.jpg).
 
 
 ## Set up instructions
